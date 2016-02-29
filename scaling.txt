@@ -1,0 +1,12 @@
+suppose you are the fortunate sufferer of a good problem which is that your website all of a sudden is super 
+popular and this website has maybe some static web content, HTML files, gifs, and the like, dynamic content 
+like PHP code, maybe even some database stuff, maybe some database stuff like MySQL. Well, how do you go about 
+scaling your site so that it can handle more users? 
+
+Answer:
+The most straightforward approach is generally what's called "Vertical Scaling", 
+vertical in the sense that -- well, if you're running low on RAM or you're 
+kind of exhausting your available CPU cycles or you're running low on disc 
+space, what's the easiest, most obvious solution to that problem? 
+Get a better processor and more RAM. 
+
