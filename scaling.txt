@@ -10,3 +10,5 @@ kind of exhausting your available CPU cycles or you're running low on disc
 space, what's the easiest, most obvious solution to that problem? 
 Get a better processor and more RAM. 
 
+Best link for scalability:
+http://www.comp.nus.edu.sg/~seer/book/1e/Ch01.html
